@@ -18,7 +18,7 @@ namespace APIqa.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Guilherme Panissom e Vitor Galves";
+            return "Guilherme Panisso e Vitor Galves";
         }
 
         [HttpPost]
