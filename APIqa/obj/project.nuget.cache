@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGq5KYTX8vUvsEO7Vp1aqafrcz6ZVts42ccod1p11UYXCcWdwb3T3ngKtU0k0kT6uqZyOj8TLMIoyksfhG98nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\APIqa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.0.0-rc5\\swashbuckle.aspnetcore.5.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.0.0-rc5\\swashbuckle.aspnetcore.swagger.5.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.0.0-rc5\\swashbuckle.aspnetcore.swaggergen.5.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.0.0-rc5\\swashbuckle.aspnetcore.swaggerui.5.0.0-rc5.nupkg.sha512"
+  ],
+  "logs": []
+}

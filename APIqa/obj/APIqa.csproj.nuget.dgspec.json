@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\source\\repos\\APIqa\\APIqa\\APIqa.csproj": {}
+    "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\APIqa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\source\\repos\\APIqa\\APIqa\\APIqa.csproj": {
+    "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\APIqa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\APIqa\\APIqa\\APIqa.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\APIqa.csproj",
         "projectName": "APIqa",
-        "projectPath": "C:\\Users\\vitor\\source\\repos\\APIqa\\APIqa\\APIqa.csproj",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\APIqa.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\source\\repos\\APIqa\\APIqa\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\guitaoqa\\APIqa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
